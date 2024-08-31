@@ -37,6 +37,13 @@ Steps = 1 / (1 - DF )
 | 0.8 | 5 |
 | 0.5 | 2 |
 
+## Learning Materials
+
+| Type | Description |
+|------|-------------|
+| video | [Hyperparameter Mechanics and Optimisation](https://youtu.be/Y3aV4T20j00) |
+
+
 ## Candidate Models
 
 | Shortcut | Name | Best eval time | Comments |
